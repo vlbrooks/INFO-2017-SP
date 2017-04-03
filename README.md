@@ -1,3 +1,3 @@
 # INFO-2017-SP
 
-Chen
+chen Zhong
