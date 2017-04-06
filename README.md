@@ -1,3 +1,7 @@
 # INFO-2017-SP
 
-Chen Zhong
+
+chen Zhong
+Briana Pebley
+
+
